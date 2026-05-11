@@ -1,0 +1,7 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "auto-import.importStatement.script.preserveScriptFileExtension": true,
+  "auto-import.importStatement.styleSheet.preserveStylesheetFileExtension": true,
+  "auto-import.preferences.importStatementPlacement": "Top"
+}
